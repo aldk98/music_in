@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aldrian.musicin2firebase">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/musicin"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreenActivity"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".users.LoginActivity"
+            />
+        <activity android:name=".users.RegisterActivity"
+           />
+        <activity android:name=".users.UsersListActivity" />
+        <activity android:name=".owner.OwnerActivity"
+            android:exported="true"/>
+        <activity android:name=".musician.MusicianFindJobDetailsActivity" />
+        <activity android:name=".musician.MusicianActivity" />
+        <activity android:name=".OwnerInboxDetailsActivity" />
+        <activity android:name=".MusicianProfileEditActivity" />
+        <activity android:name=".OwnerProfileEditActivity" />
+        <activity android:name=".MusicianDeniedActivity"/>
+        <activity android:name=".MusicianAcceptedActivity"/>
+    </application>
+</manifest>

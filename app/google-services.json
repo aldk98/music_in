@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141388749342",
+    "firebase_url": "https://first-c4dc7.firebaseio.com",
+    "project_id": "first-c4dc7",
+    "storage_bucket": "first-c4dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141388749342:android:ff68b41a1da6f47d",
+        "android_client_info": {
+          "package_name": "com.example.aldrian.musicin2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141388749342-7hesb2gi3h0c32jerpckd2gcmplml3ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aldrian.musicin2firebase",
+            "certificate_hash": "407e2e8351d0fd820a990ba2933fa88105bcbd85"
+          }
+        },
+        {
+          "client_id": "141388749342-pv95h4kq90sqsjlpug42hfje2uesfc5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6E1W_vRcEqspYlq8T-N5W0cSzIDFlQNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141388749342-gna51uj1rq8j5nqrp0prdr0qdohp3em2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

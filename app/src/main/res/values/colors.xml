@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#52658F</color>
+    <color name="colorPrimaryDark">#333a56</color>
+    <color name="colorAccent">#f7f6e5</color>
+    <color name="pastel_white">#f7f6e5</color>
+    <color name="dark_blue">#333a56</color>
+    <color name="dark_blue_hover">#bc333a56</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#52658F</color>
+    <color name="unhover">#d4d3c5</color>
+    <color name="hover">#333a56</color>
+    <color name="base">#e8e8e8</color>
+    <color name="colorTextHint">@android:color/holo_red_light</color>
+</resources>
